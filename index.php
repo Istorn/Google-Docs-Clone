@@ -152,7 +152,7 @@
 
 
       }
-      setTimeout(function(){ getText()}, 5000);
+      setTimeout(function(){ getText()}, 120000);
 
 
 
