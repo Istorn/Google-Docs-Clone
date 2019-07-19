@@ -1,0 +1,13 @@
+
+
+
+- Creazione di più di un documento
+
+
+
+Query:
+
+-Creazione del documento
+-Aggiornamento del documento: ogni 2/3 minuti, creiamo una versione del documento
+-Query per selezionare versione documento più recente.
+12:45:07	DELETE FROM VersioniDoc	Error Code: 1175. You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.	0.024 sec
